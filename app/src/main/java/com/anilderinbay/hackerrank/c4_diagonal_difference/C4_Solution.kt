@@ -17,7 +17,6 @@ fun diagonalDifference(arr: Array<Array<Int>>): Int {
     // Write your code here
     var diagonal1 = 0
     var diagonal2 = 0
-
     val n = arr.size
 
     for (i in 0 until n) {
